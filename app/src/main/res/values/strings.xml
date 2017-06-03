@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HomeworkCourse2</string>
+    <string name="title">Fun in the sun</string>
+    <string name="description">Lorem ipsum dolor sit arnet, consectetur adipiscing elit, sed do
+                                elusmod  tempor incididunt ut labore et dolore  magna aliqua !</string>
+    <string name="phase_two">Phase two!</string>
+    <string name="add_stud">Adaugare student</string>
+    <string name="lastName">Nume</string>
+    <string name="firstName">Prenume</string>
+    <string name="email">Email</string>
+    <string name="phone">Numar telefon</string>
+    <string name="university">Universitatea</string>
+    <string name="unibuc">Universitatea din Bucuresti</string>
+    <string name="poli">Politehnica</string>
+    <string name="unipit">Universitatea din Pitesti</string>
+    <string name="knowledge">Cunostinte</string>
+    <string name="oop">OOP</string>
+    <string name="c">C/C++</string>
+    <string name="java">Java</string>
+    <string name="sharp">C#</string>
+    <string name="question">Doresti sa aplici pentru stagiul de Android?</string>
+    <string name="save">SALVEAZA</string>
+
+    <string name="stud_list">Lista Studenti</string>
+    <string name="emptyList">Lista de studenti este goala!</string>
+    <string name="goBack"> Inapoi la lista</string>
+</resources>
